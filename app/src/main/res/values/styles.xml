@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <declare-styleable name="CustomCircleView">
+        <attr name="circle_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomRectangleView">
+        <attr name="rectangle_color" format="color" />
+    </declare-styleable>
 </resources>
