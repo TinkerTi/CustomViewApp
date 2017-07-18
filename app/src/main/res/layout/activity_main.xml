@@ -44,7 +44,20 @@
     <!--<tinker.cn.customviewapp.widget.PointView-->
     <!--android:layout_width="wrap_content"-->
     <!--android:layout_height="wrap_content" />-->
-    <tinker.cn.customviewapp.widget.PieChart
-        android:layout_width="100dp"
-        android:layout_height="100dp" />
+    <!--<tinker.cn.customviewapp.widget.PieChart-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp" />-->
+    <!--<tinker.cn.customviewapp.widget.CustomTextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<tinker.cn.customviewapp.widget.LineView-->
+        <!--android:id="@+id/lv_line"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<tinker.cn.customviewapp.widget.CanvasView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+    <tinker.cn.customviewapp.widget.BezierPath
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </LinearLayout>
